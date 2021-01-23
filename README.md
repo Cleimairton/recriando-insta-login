@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Clonando Pagina Inicial do Instagram #
 ## Projeto realizado no bootcamp Dio - Digital Innovation One ##
 ---
